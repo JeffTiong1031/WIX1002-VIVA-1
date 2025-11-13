@@ -95,6 +95,7 @@ public class V6 {
             System.out.print(count + " ");
         }
 
+        // Close scanner
         sc.close();
     }
 }
